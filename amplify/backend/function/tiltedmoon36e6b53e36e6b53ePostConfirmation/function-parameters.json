@@ -1,0 +1,17 @@
+{
+  "trigger": true,
+  "modules": [
+    "add-to-group"
+  ],
+  "parentResource": "tiltedmoon36e6b53e36e6b53e",
+  "functionName": "tiltedmoon36e6b53e36e6b53ePostConfirmation",
+  "resourceName": "tiltedmoon36e6b53e36e6b53ePostConfirmation",
+  "parentStack": "auth",
+  "triggerEnvs": "[]",
+  "triggerDir": "/usr/local/lib/node_modules/@aws-amplify/cli/node_modules/amplify-category-auth/provider-utils/awscloudformation/triggers/PostConfirmation",
+  "triggerTemplate": "PostConfirmation.json.ejs",
+  "roleName": "tiltedmoon36e6b53e36e6b53ePostConfirmation",
+  "skipEdit": true,
+  "GROUP": "drivers",
+  "triggerEventPath": "PostConfirmation.event.json"
+}

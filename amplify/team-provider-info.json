@@ -1,0 +1,36 @@
+{
+    "tiltedenv": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-tiltedmoon-tiltedenv-101825-authRole",
+            "UnauthRoleArn": "arn:aws:iam::438740000219:role/amplify-tiltedmoon-tiltedenv-101825-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::438740000219:role/amplify-tiltedmoon-tiltedenv-101825-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "amplify-tiltedmoon-tiltedenv-101825-deployment",
+            "UnauthRoleName": "amplify-tiltedmoon-tiltedenv-101825-unauthRole",
+            "StackName": "amplify-tiltedmoon-tiltedenv-101825",
+            "StackId": "arn:aws:cloudformation:us-east-1:438740000219:stack/amplify-tiltedmoon-tiltedenv-101825/cec9aac0-f452-11ea-9ffa-0e8a861a6983",
+            "AmplifyAppId": "dgguketsjqq0c"
+        },
+        "categories": {
+            "function": {
+                "tiltedmoon36e6b53e36e6b53ePostConfirmation": {
+                    "GROUP": "drivers"
+                },
+                "tiltedmoon36e6b53e36e6b53eCustomMessage": {
+                    "REDIRECTURL": "https://tiltedenv.dgguketsjqq0c.amplifyapp.com/",
+                    "EMAILSUBJECT": "Tilted Moon Verification",
+                    "EMAILMESSAGE": "Verify your ID by clicking on this link - "
+                }
+            },
+            "auth": {
+                "tiltedmoon36e6b53e36e6b53e": {}
+            },
+            "hosting": {
+                "amplifyhosting": {
+                    "appId": "dgguketsjqq0c",
+                    "type": "manual"
+                }
+            }
+        }
+    }
+}

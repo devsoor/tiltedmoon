@@ -1,0 +1,56 @@
+{
+  "name": "tiltedmoondrivers",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@fortawesome/free-solid-svg-icons": "^5.14.0",
+    "@material-ui/core": "^4.11.0",
+    "@material-ui/icons": "^4.9.1",
+    "@reach/router": "^1.3.4",
+    "@testing-library/jest-dom": "^4.2.4",
+    "@testing-library/react": "^9.3.2",
+    "@testing-library/user-event": "^7.1.2",
+    "aws-amplify": "^3.0.24",
+    "aws-sdk": "^2.743.0",
+    "bootstrap": "^4.5.2",
+    "font-awesome": "^4.7.0",
+    "material-ui-confirm": "^2.1.1",
+    "react": "^16.13.1",
+    "react-bootstrap-table-next": "^4.0.3",
+    "react-bootstrap-table2-paginator": "^2.1.2",
+    "react-dom": "^16.13.1",
+    "react-helmet": "^6.1.0",
+    "react-player": "^2.6.1",
+    "react-scripts": "3.4.3",
+    "react-scrollbars-custom": "^4.0.25",
+    "react-video-thumbnail": "^0.1.3",
+    "reactstrap": "^8.5.1",
+    "video-react": "^0.14.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "modern-normalize": "^0.5.0",
+    "node-sass": "^4.14.1",
+    "rimraf": "^2.6.3"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
